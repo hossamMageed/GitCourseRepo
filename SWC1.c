@@ -1,2 +1,4 @@
-//Ahmed
-//Hossam
+int add_function (int a, int b)
+{
+		return a+b;
+}
